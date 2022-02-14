@@ -1,1 +1,3 @@
 # UnityIgnore
+
+Unity .gitignore template
